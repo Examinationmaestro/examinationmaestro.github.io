@@ -97,7 +97,7 @@
             "cardback": "The algebraic sum of the moments of all the forces about a particular point is equal to the moment of their resultant about the same point."
         },
         {
-            "cardfront": "Distance of P1,P2,P3,R from o are d1,d2,d3,d respectively.Let 'R' be the resultant of three forces.According Varignon’s Theorem of Moments , Moment about point ‘O’ is:  MRO = MFO   -(R x d) = - (P1 x d1) - (P2 x d2) + (P3 x d3)",
+            "cardfront": "Distance of P1,P2,P3,R from O are d1,d2,d3,d respectively.Let 'R' be the resultant of three forces.According to Varignon’s Theorem of Moments,Moment about point ‘O’ is:  Mᵣₒ = Mբₒ<br> -(R x d) = -(P1 x d1)-(P2 x d2) + (P3 x d3)",
             "cardback":"<img src=\"img/u1img1.png\" class=\"img\"> </img>"
         },
         {
