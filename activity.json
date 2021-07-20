@@ -38,7 +38,7 @@
         },
         {
             "cardfront": "Types of systems of forces ",
-            "cardback": "7 types of system of forces"
+            "cardback": "There are 7 types of system of forces"
         },
         {
             "cardfront": "1. Coplanar forces",
@@ -74,7 +74,7 @@
         },
         {
             "cardfront": "Formula of Moment",
-            "cardback": " M = F × d "
+            "cardback": " M = F × d <br>where F=Force and d= Perpendicular distance"
         },
         {
             "cardfront": "TYPES OF MOMENTS: ",
@@ -97,7 +97,7 @@
             "cardback": "The algebraic sum of the moments of all the forces about a particular point is equal to the moment of their resultant about the same point."
         },
         {
-            "cardfront": "Distance of P1,P2,P3,R from o are d1,d2,d3,d respectively.Let 'R' be the resultant of three forces, and as shown in the figure.According Varignon’s Theorem of Moments , Moment about point ‘O’ is:  MRO = MFO   -(R x d) = - (P1 x d1) - (P2 x d2) + (P3 x d3)",
+            "cardfront": "Distance of P1,P2,P3,R from o are d1,d2,d3,d respectively.Let 'R' be the resultant of three forces.According Varignon’s Theorem of Moments , Moment about point ‘O’ is:  MRO = MFO   -(R x d) = - (P1 x d1) - (P2 x d2) + (P3 x d3)",
             "cardback":"<img src=\"img/u1img1.png\" class=\"img\"> </img>"
         },
         {
@@ -110,7 +110,7 @@
         },
         {
             "cardfront": "Moment of couple ",
-            "cardback": "Fxd (d is the distance between two forces)"
+            "cardback": "F x d <br>(d is the distance between two forces)"
         },
         {
             "cardfront": "Characteristics of a Couple:",
@@ -126,7 +126,7 @@
         },
         {
             "cardfront": "Steps to solve problem on varignon’s theorem:",
-            "cardback": "5.Apply Varignon’s theorem of moments 6.Moment of all the forces = Moment of the resultant"
+            "cardback": "5.Apply Varignon’s theorem of moments.<br>6.Moment of all the forces = Moment of the resultant"
         },
         {
             "cardfront": "Equivalent Force Couple System:",
@@ -141,16 +141,12 @@
             "cardback": "<img src=\"img/u1img4.jpg\" class=\"img\"> </img>"
         },
         {
-            "cardfront": "Resultant of force system: 1) In 2D",
+            "cardfront": "Resultant of force system:<br> 1) In 2D",
             "cardback": "<img src=\"img/u1img5.jpg\" class=\"img\"> </img>"
         },
         {
-            "cardfront": "Resultant of force system: 2) In 3D:",
+            "cardfront": "Resultant of force system:<br> 2) In 3D:",
             "cardback":"<img src=\"img/u1img6.jpg\" class=\"img\"> </img>"
-        },
-        {
-            "cardfront": "KANGAROO",
-            "cardback": "CANGURO"
         }
     ]
 }
